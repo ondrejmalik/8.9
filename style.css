@@ -1,0 +1,11 @@
+body { margin: 0;
+	background-image: url("black.png");
+	font-family:"Comic Sans MS";
+	font-weight: 500;+
+	
+   }
+   #bg{ width: 100%;
+		height: 100%;
+		position:absolute;
+		z-index: -1;
+		top: 0px;}
